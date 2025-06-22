@@ -34,7 +34,7 @@
 ### Build Instructions
 
 ```bash
-git clone https://github.com/Muneeb50702/embee.cpp.git
+git clone https://github.com/Muneeb50702/embee.git
 cd embee.cpp
 mkdir build && cd build
 cmake ..
